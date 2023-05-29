@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T16:49:28 PKT" name="Default suite" finished-at="2023-05-26T16:49:51 PKT" duration-ms="23509">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T16:49:28 PKT" name="Default test" finished-at="2023-05-26T16:49:51 PKT" duration-ms="23509">
+      <class name="Automation.Pakwheel.HomePageTest">
+        <test-method is-config="true" signature="Initialization()[pri:0, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:28 PKT" name="Initialization" finished-at="2023-05-26T16:49:40 PKT" duration-ms="12686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method signature="SubscribeNewsLetterCancel()[pri:1, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:40 PKT" name="SubscribeNewsLetterCancel" finished-at="2023-05-26T16:49:41 PKT" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubscribeNewsLetterCancel -->
+        <test-method signature="mainLogoVisibility()[pri:2, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:41 PKT" name="mainLogoVisibility" finished-at="2023-05-26T16:49:41 PKT" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainLogoVisibility -->
+        <test-method signature="DownloadAppBtn()[pri:3, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:41 PKT" name="DownloadAppBtn" finished-at="2023-05-26T16:49:43 PKT" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadAppBtn -->
+        <test-method signature="urduLanguageBtn()[pri:4, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:43 PKT" name="urduLanguageBtn" finished-at="2023-05-26T16:49:48 PKT" duration-ms="4903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urduLanguageBtn -->
+        <test-method signature="main_banner_text_verification()[pri:5, instance:Automation.Pakwheel.HomePageTest@402bba4f]" started-at="2023-05-26T16:49:48 PKT" name="main_banner_text_verification" finished-at="2023-05-26T16:49:51 PKT" duration-ms="3383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main_banner_text_verification -->
+      </class> <!-- Automation.Pakwheel.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
